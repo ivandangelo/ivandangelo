@@ -1,4 +1,6 @@
-Me gustaria dar mis primeros pasos laboralmente en desarollo o testing QA automático/manual. Desarrollo apps hibridas con Framework7, JS, CSS3 y HTML5. Tengo conocimientos en Python, Java y C. Soy una persona resolutiva. Mi trato hacia los demás se basa en el respeto, la humildad, amabilidad y empatía.
+Me gustaria dar mis primeros pasos laboralmente en desarollo o testing QA automático/manual. Desarrollo apps hibridas con Framework7, JS, CSS3, HTML5 y Apache Cordova. Tengo conocimientos en Python, Java y C. Soy una persona resolutiva. Mi trato hacia los demás se basa en el respeto, la humildad, amabilidad y empatía.
+- 🔭 Actualmente estoy trabajando desarollando una app hibrida para compartir archivos entre dispositivos con las tecnologias mencionadas anteriormente
+
 Linkedin: https://www.linkedin.com/in/ivandangelo/
 
 <!--
