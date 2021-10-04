@@ -1,5 +1,5 @@
-Desarrollador y tester QA automático/manual. Desarrollo apps hibridas con Framework7, JS, CSS3, HTML5, Jquery, Apache Cordova y servicios Firebase. Ademas tengo conocimientos en Python, Java y C. Me considero una persona amable y autodidacta con muchas ganas de aprender e incertarme en esta industria.
-
+Estudiante de Ingenieria en Computacion en UNTREF.
+Desarrollador y tester QA automático/manual. Conocimientos en Python, Java, HTML, JS, CSS y C. Actualmente trabajando como QA Tester Automation para Andreani.
 
 Linkedin: https://www.linkedin.com/in/ivandangelo/
 
